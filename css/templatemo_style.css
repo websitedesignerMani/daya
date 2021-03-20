@@ -56,12 +56,13 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     font-size: 55px;
     color: green;
 
-}.heads2 {
+}
+.heads2 {
     font-weight: bold;
     font-style: italic;
-    font-size: 55px;
+    font-size: 30px;
     color: #e74608;
-    text-align: justify;
+    text-align: inherit;
 
 
 }
